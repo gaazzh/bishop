@@ -1,0 +1,14 @@
+c:\users\fox\documents\visual studio 2017\Projects\mysqltest\mysqltest\bin\Debug\mysqltest.exe.config
+c:\users\fox\documents\visual studio 2017\Projects\mysqltest\mysqltest\bin\Debug\mysqltest.exe
+c:\users\fox\documents\visual studio 2017\Projects\mysqltest\mysqltest\bin\Debug\mysqltest.pdb
+c:\users\fox\documents\visual studio 2017\Projects\mysqltest\mysqltest\bin\Debug\EntityFramework.dll
+c:\users\fox\documents\visual studio 2017\Projects\mysqltest\mysqltest\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\fox\documents\visual studio 2017\Projects\mysqltest\mysqltest\bin\Debug\MySql.Data.dll
+c:\users\fox\documents\visual studio 2017\Projects\mysqltest\mysqltest\bin\Debug\MySql.Data.Entity.EF6.dll
+c:\users\fox\documents\visual studio 2017\Projects\mysqltest\mysqltest\bin\Debug\EntityFramework.xml
+c:\users\fox\documents\visual studio 2017\Projects\mysqltest\mysqltest\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\fox\documents\visual studio 2017\Projects\mysqltest\mysqltest\obj\Debug\mysqltest.csprojResolveAssemblyReference.cache
+c:\users\fox\documents\visual studio 2017\Projects\mysqltest\mysqltest\obj\Debug\mysqltest.exe
+c:\users\fox\documents\visual studio 2017\Projects\mysqltest\mysqltest\obj\Debug\mysqltest.pdb
+c:\users\fox\documents\visual studio 2017\Projects\mysqltest\mysqltest\obj\Debug\mysqltest.Migrations._1.resources
+c:\users\fox\documents\visual studio 2017\Projects\mysqltest\mysqltest\obj\Debug\mysqltest.csproj.GenerateResource.Cache
